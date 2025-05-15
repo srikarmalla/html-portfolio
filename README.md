@@ -13,6 +13,6 @@ Task Management App: A collaborative task management app with real-time updates.
 
 Portfolio
 LinkedIn
-Email
+Email srikarmalla19@gmail.com
 
 
