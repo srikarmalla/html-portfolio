@@ -3,8 +3,6 @@ I'm a Full Stack Developer passionate about building modern web applications wit
 🔧 Skills
 
 Frontend: HTML5, CSS3, JavaScript, React, Vue.js
-Backend: Node.js, Express, Python (Django)
-Database & DevOps: MongoDB, PostgreSQL, Docker, AWS
 
 🌟 Featured Projects
 
